@@ -10,3 +10,10 @@
 8. Musik
 9. Belajar Progamming
 10. Belajar gitHub
+11. Game Free Fire
+12. Game Pubg Mobile
+13. sholat jumat bagi laki2
+
+# List Data Barang
+1. Meja
+2. Kursi
