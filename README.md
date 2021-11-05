@@ -5,3 +5,4 @@
 3. Makan
 4. Mandi
 5. Berangkat ke Kantor magang
+6. Mengajar di Kantor
