@@ -7,3 +7,6 @@
 5. Berangkat ke Kantor magang
 6. Mengajar di Kantor
 7. olah raga
+8. Musik
+9. Belajar Progamming
+10. Belajar gitHub
